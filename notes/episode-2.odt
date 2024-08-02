@@ -1,0 +1,17 @@
+~ : inside package.json - helps you auto-upgrade a package to it's latest major version(if available). 
+
+^ : inside package.json - helps you auto-upgrade a package to it's latest minor version(if available). 
+
+Broswer List - https://browserslist.dev/ : use to list the browsers in which you want your application to run in.
+
+Bundler - Used to minified , cleaned , cached our app before building it. e.g - webpack, vite.
+
+Dependency - Packages , two types - Dev (required in dev environment) and Normal (required in both dev and prod environment.)
+
+NPM - used for managing JavaScript packages or library.
+
+NPX - used to executed a library command. e.g - 
+dev builds - npx parcel index.html,
+prod builds - npx parcel build index.html.
+
+Parcel - A JS Bundler used to minify code, cache it.
